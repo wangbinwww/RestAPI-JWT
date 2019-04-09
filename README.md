@@ -35,11 +35,9 @@ npm run lint
 ### GitHub 同步
 
 ```
-See [Configuration Reference](https://cli.vuejs.org/config/).
-echo "# RestAPI-JWT" >> README.md
 git init
 git add .
-git commit -m "first commit"
+git commit -m "首发上传20190409"
 git remote add origin https://github.com/wangbinwww/RestAPI-JWT.git
 git push -u origin master
 ```
